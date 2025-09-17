@@ -31,7 +31,7 @@ The NpgsqlLogger package (available at https://github.com/larswise/NpgsqlTcpLogg
 ## Keybindings
 
 - `j/k` or `↑/↓` - Navigate between queries
-- `Enter` - Expand/collapse query details
+- `Enter` or `←/⇾` - Expand/collapse query details
 - `l` - Enter scroll mode for long queries
 - `h` - Exit scroll mode
 - `y` - Copy current query to clipboard
